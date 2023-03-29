@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Schmetterling-cd
 - 🏫BSUIR student
-- 👀 I’m interested in learning PHP, Ruby on rails, JS
+- 👀 I’m interested in learning PHP, JS
